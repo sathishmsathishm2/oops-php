@@ -9,3 +9,5 @@ while($rows = mysqli_fetch_object($res)){
 echo $rows->name."</br>";
 }
 
+echo 'git'
+
