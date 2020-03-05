@@ -30,6 +30,7 @@ class Database {
     $this->result = mysqli_query($this->con,$qry);
 
     return $this->result;
+    echo "sucess";
 
     // if(strpos($qry, 'select') !== false){
 
