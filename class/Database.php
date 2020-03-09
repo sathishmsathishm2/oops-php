@@ -53,7 +53,7 @@ class Database {
 
     //      return $this->rows;
     // } else {
-    //     return $this->result;
+    //   return $this->result;
     // }
 
   }
